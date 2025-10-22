@@ -1,0 +1,21 @@
+body {
+    background-color: rgba(200, 0, 255, 0.118);
+    color: #000000;
+    background-image:url("img2.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+img {
+    width: 200px;
+    height: 200px;
+}
+.ada{
+    border-color: #000000;
+    border-style: solid;
+    padding: 10px;
+}
+.abuja{
+    border-color: red;
+    border-style: solid;
+    margin: 10px;
+}
